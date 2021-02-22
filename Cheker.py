@@ -1,9 +1,9 @@
 import requests
 import os
 os.system('pip install heatshrink && pkg install figlet&&pip install figlet ')
-os.system('xdg-open https://t.me/LO1STT')
+os.system('xdg-open')
 os.system('clear')
-os.system('figlet LOST')
+os.system('figlet Hi')
 print("=============================================")
 
 
